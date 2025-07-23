@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/project_ML/project_ML/mlruns/783339045220347229/e34d3a80d23c4a2685d8394b993c9e43/artifacts
+end_time: 1753259331266
+entry_point_name: ''
+experiment_id: '783339045220347229'
+lifecycle_stage: active
+run_id: e34d3a80d23c4a2685d8394b993c9e43
+run_name: vaunted-chimp-165
+run_uuid: e34d3a80d23c4a2685d8394b993c9e43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753259324777
+status: 3
+tags: []
+user_id: shyam

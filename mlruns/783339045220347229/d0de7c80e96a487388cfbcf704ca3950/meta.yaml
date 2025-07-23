@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/project_ML/project_ML/mlruns/783339045220347229/d0de7c80e96a487388cfbcf704ca3950/artifacts
+end_time: 1753259366286
+entry_point_name: ''
+experiment_id: '783339045220347229'
+lifecycle_stage: active
+run_id: d0de7c80e96a487388cfbcf704ca3950
+run_name: respected-skink-464
+run_uuid: d0de7c80e96a487388cfbcf704ca3950
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753259363029
+status: 3
+tags: []
+user_id: shyam
